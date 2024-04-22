@@ -25,10 +25,7 @@ organizations:
     url: https://www.szczekszczek.pl
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Trenerka i behawiorystka psów.
-▫️Konsultacje behawioralne
-▫️Treningi grupowe i indywidualne
-▫️Spacery socjalizacyjne 
+bio:  Trenerka i behawiorystka psów. ▫️Konsultacje behawioralne ▫️Treningi grupowe i indywidualne ▫️Spacery socjalizacyjne 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
